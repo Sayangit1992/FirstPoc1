@@ -31,6 +31,6 @@ public class Main {
 //        System.out.println(Arrays.toString(arr));
         Employee emp = new Employee();
         emp.DisplayEmpDetails();
-        emp.DisplayEmpDetails(true);
+        emp.DisplayEmpDetails(false);
     }
 }
